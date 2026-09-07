@@ -106,6 +106,6 @@ that version is released, and the change will be described here rather than buri
 
 Questions about this policy, or about a learner's data, can be sent to:
 
-**<CONTACT EMAIL — replace before publishing>**
+**acepython001@gmail.com**
 
 SierraTuff
